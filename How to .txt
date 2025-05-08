@@ -1,0 +1,6 @@
+Pass arguments as 1. ActualCSV Path .
+                     2. Expected CSV Path.
+                     3. Result CSV Path.
+                     4. Primary key column name.
+
+example : CSVComparator.exe C:\\SeleniumAssignment\\CSVComparator\\Benchmark.csv C:\\SeleniumAssignment\\CSVComparator\\Test1.csv C:\\SeleniumAssignment\\CSVComparator\\comparison_results.csv ID
